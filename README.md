@@ -4,5 +4,5 @@
 
 ## 2021-11-03
 
-- menambahkan pajak.md
-- update faq.md
+- menambahkan [pajak.md](/pajak.md)
+- update [faq.md](/faq.md)
