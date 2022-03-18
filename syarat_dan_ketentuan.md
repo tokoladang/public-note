@@ -154,11 +154,11 @@ cepat/lamanya uang masuk ke rekening penyedia diawali dari metode pembayaran yan
 
 1. Semua pembayaran melalui virtual account akan diverifikasi maksimal H+1, setelah satuan pendidikan upload bukti bayar di aplikasi SIPLah Toko Ladang.
 
-2. Jika Satuan pendidikan upload pada jam dibawah 12:00, maka akan terverifikasi pada hari itu juga.
+2. Jika Satuan pendidikan upload pada jam **dibawah 12:00**, maka akan terverifikasi pada **hari itu juga**.
 
-3. Jika Satuan Pendidikan upload pada jam 12:01 dan selebihnya, maka akan diverifikasi besok harinya.
+3. Jika Satuan Pendidikan upload pada jam **12:01 dan selebihnya**, maka akan diverifikasi **besok harinya**.
 
-4. Khusus VA Bank Jatim tidak diwajibkan untuk upload bukti bayar.
+4. Khusus **VA Bank Jatim** tidak diwajibkan untuk upload bukti bayar.
 
 5. Semua layanan VA dikenakan biaya layanan sebesar Rp. 5.000,- yang dibebankan ke penyedia (merchant).
 
@@ -174,7 +174,8 @@ cepat/lamanya uang masuk ke rekening penyedia diawali dari metode pembayaran yan
 
 _*FYI, metode pembayaran akan dikonsentrasikan ke VA. Transfer manual akan ditutup semuanya_
 
-Ketentuan Terkait Verifikasi Pembayaran
+## Ketentuan Terkait Verifikasi Pembayaran
+
 - Verifikasi dilakukan di hari kerja (Senin-Jum'at).
 - Upload bukti bayar, merupakan pengambilan slot antrian verifikasi. Semakin segera upload, semakin kecil angka antrian dalam sistem.
 - Verifikasi pembayaran **TIDAK PERLU** mengirimkan nomor PO di group Telegram. Selama tidak ada masalah dalam case pembayaran pasti diverifikasi.
