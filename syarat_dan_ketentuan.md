@@ -172,7 +172,7 @@ cepat/lamanya uang masuk ke rekening penyedia diawali dari metode pembayaran yan
 
 3. Transfer Manual wajib upload bukti bayar di aplikasi SIPLah Toko Ladang.
 
-*FYI, metode pembayaran akan dikonsentrasikan ke VA. Transfer manual akan ditutup semuanya
+_*FYI, metode pembayaran akan dikonsentrasikan ke VA. Transfer manual akan ditutup semuanya_
 
 Ketentuan Terkait Verifikasi Pembayaran
 - Verifikasi dilakukan di hari kerja (Senin-Jum'at).
