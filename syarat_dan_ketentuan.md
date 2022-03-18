@@ -136,7 +136,7 @@ Melanggar setiap hukum yang berlaku (termasuk tetapi tidak terbatas pada peratur
 
 4. Barang dan/atau Jasa yang sudah dibeli dan diterima dengan baik dan benar oleh Pembeli yang ditandai dengan tanda terima Barang/Jasa berupa Berita Acara Serah Terima (BAST) akan menjadi tanggung jawab Pembeli, dan tidak dapat dikembalikan atau dibatalkan secara sepihak oleh Pembeli.
 
-# Verifikasi Barang / Jasa
+# VERIFIKASI BARANG / JASA
 
 Ketentuan Verifikasi Barang/Jasa Siplah Toko Ladang:
 
@@ -147,7 +147,7 @@ Ketentuan Verifikasi Barang/Jasa Siplah Toko Ladang:
 3. Verifikasi dilakukan bertahap, jika ditemukan ketidaksesuain maka item barang/jasa tersebut akan di suspend.
 
 
-# Penarikan Dana
+# PENARIKAN DANA
 cepat/lamanya uang masuk ke rekening penyedia diawali dari metode pembayaran yang dipilih oleh satuan pendidikan(pembeli).
 
 ## Virtual Account
