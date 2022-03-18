@@ -160,9 +160,9 @@ cepat/lamanya uang masuk ke rekening penyedia diawali dari metode pembayaran yan
 
 4. Khusus VA Bank Jatim tidak diwajibkan untuk upload bukti bayar.
 
-5. Semua layanan VA dikenakan biaya layanan sebesar Rp. 5.000,-
+5. Semua layanan VA dikenakan biaya layanan sebesar Rp. 5.000,- yang dibebankan ke penyedia (merchant).
 
-6. Selain biaya poin 5, ada biaya admin jika beda bank. Perbedaan bank yang dimaksud adalah bank penampung di tokoladang dengan bank penyedia (merchant)
+6. Selain biaya poin 5, ada biaya admin jika beda bank. Perbedaan bank yang dimaksud adalah bank penampung di tokoladang dengan bank penyedia (merchant).
 
 ## Transfer Manual
 
